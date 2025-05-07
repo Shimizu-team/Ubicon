@@ -137,7 +137,7 @@ The command outputs both the raw prediction score and the calibrated Ubicon scor
 ===== Prediction Result =====
 E3 ligase: P40337
 Substrate: Q16665
-Ubicon score: 0.989225
+Ubicon score: 0.878049
 ====================
 ```
 
