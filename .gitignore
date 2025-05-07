@@ -1,0 +1,61 @@
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+.DS_Store
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE and editor related
+.idea/
+.vscode/
+*.swp
+*.swo
+.spyderproject
+.spyproject
+.ropeproject
+
+# Linux related
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+core
+
+# Ubicon project specific
+results/
+.env
+
+# Temporary files
+temp/
+tmp/
+*.bak
+*.log
