@@ -1,0 +1,10 @@
+{
+  "e3_embedding": "examples/E3_feature_embedding.pt",
+  "substrate_embedding": "examples/Sub_feature_embedding.pt",
+  "e3_structure": "examples/E3_structure_embed.json",
+  "substrate_structure": "examples/Sub_structure_embed.json",
+  "e3_location": "examples/E3_location_embedding.csv",
+  "substrate_location": "examples/Sub_location_embedding.csv",
+  "model_path": "models/final_catboost_model.cbm",
+  "calibration_path": "models/isotonic_calibration_model.pkl"
+}
