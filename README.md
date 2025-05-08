@@ -167,6 +167,8 @@ ubicon/
 │   ├── Sub_structure_embed.json - Substrate structure embeddings
 │   ├── E3_location_embedding.csv - E3 localization embeddings
 │   └── Sub_location_embedding.csv - Substrate localization embeddings
+├── config/ - Configuration files
+│   └── default_config.yaml - Default application settings
 ├── results/ - Results directory
 ├── tutorial.ipynb - Tutorial notebook
 ├── embedding.py - Embedding generation script
