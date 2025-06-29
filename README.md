@@ -188,6 +188,7 @@ ubicon/
 │   └── default_config.yaml - Default application settings
 ├── results/ - Results directory
 ├── tutorial.ipynb - Tutorial notebook
+├── colab_demo.ipynb - Google Colab demo notebook
 ├── embedding.py - Embedding generation script
 └── envorionment.yml - Conda environment configuration file
 ```
