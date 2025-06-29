@@ -16,6 +16,20 @@ By integrating these complementary data types, Ubicon achieves high accuracy in 
 
 ![Ubicon Architecture](Ubicon.png)
 
+## Prerequisites
+The software is tested in Linux environment (Red Hat Enterprise Linux 9.4, CUDA 12.8, HPC environment) and Google Colab environment (Python 3.11.13, GPU T4).
+The basic requirements for running Ubicon are Python>=3.10 with the following packages:
+
+- python=3.10.16
+- torch==2.6.0
+- catboost==1.2.8
+- scikit-learn==1.3.2
+- pandas==2.2.3
+- numpy==1.24.4
+- transformers==4.46.3
+- peft==0.14.0
+
+Details on system requirements and full dependency list are contained in the following file: environment.yml
 
 ## Installation
 ### Setup
@@ -30,7 +44,7 @@ cd ubicon
 You can set up the required environment using the `environment.yml` file:
 
 ```bash
-conda env create -f envorionment.yml
+conda env create -f environment.yml
 conda activate ubicon
 ```
 
@@ -43,7 +57,10 @@ conda activate ubicon
 
 ### Quick Start
 
-The simplest way to use Ubicon is through the provided Jupyter notebook tutorial (`tutorial.ipynb`)
+The simplest way to use Ubicon is through the provided Jupyter notebook tutorial (`tutorial.ipynb`).  Alternatively, you can run it directly on Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shimizu-team/ubicon/blob/main/colab_demo.ipynb)
+
+Expected runtime: ~3-5 minutes including installation
 
 
 ### Input Files
