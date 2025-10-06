@@ -184,6 +184,9 @@ ubicon/
 │   ├── Sub_structure_embed.json - Substrate structure embeddings
 │   ├── E3_location_embedding.csv - E3 localization embeddings
 │   └── Sub_location_embedding.csv - Substrate localization embeddings
+├── analysis/ - Analysis notebooks
+│   ├── network_analysis_tutorial.ipynb - Network analysis and pathway enrichment tutorial
+│   └── cytoscape_nodes.csv - Node type information for Cytoscape visualization
 ├── config/ - Configuration files
 │   └── default_config.yaml - Default application settings
 ├── results/ - Results directory
@@ -196,4 +199,3 @@ ubicon/
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
