@@ -184,16 +184,17 @@ ubicon/
 │   ├── Sub_structure_embed.json - Substrate structure embeddings
 │   ├── E3_location_embedding.csv - E3 localization embeddings
 │   └── Sub_location_embedding.csv - Substrate localization embeddings
-├── analysis/ - Analysis notebooks
-│   ├── network_analysis_tutorial.ipynb - Network analysis and pathway enrichment tutorial
-│   └── cytoscape_nodes.csv - Node type information for Cytoscape visualization
+├── analysis/ - Analysis results
+│   ├── fig_3/ - Figure 3 results
+│   ├── fig_4/ - Figure 4 results
+│   └── fig_5/ - Figure 5 results
 ├── config/ - Configuration files
 │   └── default_config.yaml - Default application settings
 ├── results/ - Results directory
 ├── tutorial.ipynb - Tutorial notebook
 ├── colab_demo.ipynb - Google Colab demo notebook
 ├── embedding.py - Embedding generation script
-└── envorionment.yml - Conda environment configuration file
+└── environment.yml - Conda environment configuration file
 ```
 
 ## License

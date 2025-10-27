@@ -1,0 +1,12 @@
+{
+  "Fbxw7_rm_F-box": {
+    "e3_name": "Fbxw7",
+    "e3_uniprot": "Q969H0",
+    "mutation_type": "F-box domain removal"
+  },
+  "Fbxw7_rm_N_terminal": {
+    "e3_name": "Fbxw7",
+    "e3_uniprot": "Q969H0",
+    "mutation_type": "N-terminal removal"
+  }
+}
