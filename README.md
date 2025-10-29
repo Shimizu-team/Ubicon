@@ -191,7 +191,7 @@ ubicon/
 │   │   └── cytoscape_nodes.csv - Cytoscape network data
 │   └── fig_5/ - Figure 5 results
 ├── resource/ - Resource files
-│   └── sakuma_table_s5.csv - Sakuma dataset (stored with Git LFS)
+│   └── sakuma_table_s5.csv - Ubicon catalog
 ├── config/ - Configuration files
 │   └── default_config.yaml - Default application settings
 ├── results/ - Results directory
