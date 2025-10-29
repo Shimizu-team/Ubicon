@@ -186,8 +186,12 @@ ubicon/
 │   └── Sub_location_embedding.csv - Substrate localization embeddings
 ├── analysis/ - Analysis results
 │   ├── fig_3/ - Figure 3 results
-│   ├── fig_4/ - Figure 4 results
+│   ├── fig_4/ - Figure 4 results (network analysis)
+│   │   ├── network_analysis_tutorial.ipynb - Network analysis tutorial
+│   │   └── cytoscape_nodes.csv - Cytoscape network data
 │   └── fig_5/ - Figure 5 results
+├── resource/ - Resource files
+│   └── sakuma_table_s5.csv - Sakuma dataset (stored with Git LFS)
 ├── config/ - Configuration files
 │   └── default_config.yaml - Default application settings
 ├── results/ - Results directory

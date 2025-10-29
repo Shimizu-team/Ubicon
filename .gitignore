@@ -59,5 +59,3 @@ temp/
 tmp/
 *.bak
 *.log
-
-sakuma_table_s3.csv
